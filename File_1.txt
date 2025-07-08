@@ -1,3 +1,5 @@
 This is file 1 with zero changes
 
 this file has 1 changes - renamed
+
+File_2 is deleted
